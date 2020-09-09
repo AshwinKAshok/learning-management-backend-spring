@@ -5,7 +5,7 @@ using Java Spring boot. It is an attempt to learn Java Spring by trying to imple
 the Backend REST APIs using Spring. The same set of features are also implemented using
 NodeJS(Express) as an attempt to learn NodeJS.
 
-The NodeJS based backend of this project can be found [here]().
+The NodeJS based backend of this project can be found [here](https://github.com/AshwinKAshok/learning-management-backend-node).
 
 # What it does?
 
@@ -27,8 +27,8 @@ However, due to the consistency of API structure across 2 different
  
 ### Tech stacks used:
 * ### Frontend:
-    * React and redux based frontend can be found [here]().
-    * AngularJS based frontend can be found [here](https://github.com/AshwinKAshok/learning-management-webdev-angular).
+    * React and redux based frontend can be found [here](https://github.com/AshwinKAshok/learning-management-frontend-react).
+    * AngularJS based frontend can be found [here](https://github.com/AshwinKAshok/learning-management-frontend-angular).
 * ### Backend:
-    * Backend using Spring boot and AWS RDS for database can be found [here]().
-    * Backend using NodeJS and MongoDB for database can be found [here]().
+    * Backend using Spring boot and AWS RDS for database is this repo.
+    * Backend using NodeJS and MongoDB for database can be found [here](https://github.com/AshwinKAshok/learning-management-backend-node).
